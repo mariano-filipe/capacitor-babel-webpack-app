@@ -1,0 +1,11 @@
+{
+	"appId": "com.fmariano.dixie",
+	"appName": "dixie",
+	"bundledWebRuntime": true,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
