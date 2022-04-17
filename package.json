@@ -2,6 +2,8 @@
   "name": "capacitor-app",
   "version": "1.0.0",
   "description": "An Amazing Capacitor App",
+  "author": "Filipe Mariano",
+  "license": "MIT",
   "main": "index.js",
   "keywords": [
     "capacitor",
@@ -11,14 +13,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@capacitor/android": "^3.4.3",
-    "@capacitor/camera": "latest",
-    "@capacitor/core": "latest",
-    "@capacitor/splash-screen": "latest"
+    "@capacitor/android": "3.4.3",
+    "@capacitor/camera": "1.3.1",
+    "@capacitor/core": "3.4.3",
+    "@capacitor/splash-screen": "1.2.2"
   },
   "devDependencies": {
-    "@capacitor/cli": "latest"
-  },
-  "author": "",
-  "license": "ISC"
+    "@capacitor/cli": "3.4.3"
+  }
 }
